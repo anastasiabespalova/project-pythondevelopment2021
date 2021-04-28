@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Style transfer project'
+project = 'Style transfer'
 copyright = '2021, Anastasia Bespalova, Alexandra Mikhailenko'
 author = 'Anastasia Bespalova, Alexandra Mikhailenko'
 
 # The full version, including alpha/beta/rc tags
-release = '29/04/2021'
+release = '28/04/2021'
 
 
 # -- General configuration ---------------------------------------------------
